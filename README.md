@@ -1,6 +1,6 @@
 # ProiectSTM32
 
-3D real-time simulation of an object
+3D real-time simulation of an object using C/C++, Python, Blender
 
 Abstract
 
@@ -30,3 +30,14 @@ Tools
 - STM32 Cube & Open STM32 tools                                                                      
 - Blender                                                                                        
 - Pycharm                                                                                       
+
+
+Blender object
+![image](https://user-images.githubusercontent.com/53474954/108992045-7f26e600-76a1-11eb-90fb-a4812dfeeabf.png)
+
+Results 
+                                                                                                               
+![image](https://user-images.githubusercontent.com/53474954/108992953-95817180-76a2-11eb-9f3f-9969f60eacb6.png)
+![image](https://user-images.githubusercontent.com/53474954/108992992-a0d49d00-76a2-11eb-959d-b81a69078369.png)
+![image](https://user-images.githubusercontent.com/53474954/108993074-ba75e480-76a2-11eb-815a-2b695cff4a42.png)
+
